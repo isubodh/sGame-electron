@@ -1,12 +1,12 @@
 {
-  "name": "electron-quick-start",
+  "name": "sGame-electron",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "A sGame Electron application",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/isubodh/sGame-elctron/",
   "keywords": [
     "Electron",
     "quick",

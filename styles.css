@@ -1,3 +1,37 @@
 /* styles.css */
+p {
+    display: inline;
+}
 
-/* Add styles here to customize the appearance of your app */
+p + button {
+    width: 90px;
+    height: 90px;
+}
+
+tr {
+    border: 40px;
+    color: black;
+}
+
+button {
+    width: 90px;
+    height: 90px;
+}
+
+#button-holder {
+    display: flex;
+    width: 270px;
+    height: 270px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    color: bisque;
+}
+
+#stats-counter {
+    display: flex;
+    width: 270px;
+    height: 90px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    color:brown;
+}
